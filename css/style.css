@@ -231,10 +231,12 @@ body {
 
 /* about section */
 .about,
-.menu,
 .products,
 .contact {
 	padding: 8rem 7% 1.4rem;
+}
+.menu {
+	padding: 12rem 7% 1.4rem;
 }
 
 .about h2,
